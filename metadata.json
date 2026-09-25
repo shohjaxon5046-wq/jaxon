@@ -1,0 +1,6 @@
+{
+  "name": "Shohrent — Qurilish uskunalarini ijaraga berish va logistika tizimi",
+  "description": "Toshkent shahridagi qurilish uskunalarini ijaraga berish, inventarizatsiya kirimi, seriya raqamlari va ixtisoslashtirilgan logistika korporativ boshqaruv platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
